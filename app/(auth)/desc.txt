@@ -1,0 +1,5 @@
+This folder is for route group called 'auth' folder.
+
+Sign up and sign in related routes. 
+
+This is just to keep your file and folder structure clean.
