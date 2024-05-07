@@ -1,3 +1,5 @@
+// This layout is going to be used across the entire application
+
 import type { Metadata } from "next";
 import { Poppins } from "next/font/google";
 import "./globals.css";
@@ -12,7 +14,7 @@ export const metadata: Metadata = {
   title: "Evently",
   description: "Evently is a platform for event management",
   icons: {
-    icon: "assets/images/logo.svg",
+    icon: "/assets/images/logo.svg",
   },
 };
 
